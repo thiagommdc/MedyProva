@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Medy.Dominio;
 
+namespace Medy.Contexto
 {
     public class AppDbContext : DbContext
     {
